@@ -5,7 +5,7 @@ def menu():
     print("3. Multiplicar")
     print("4. Dividir")
     print("5. Salir")
-    opcion = input("Elige una opción PARA EMPEZAR: ")
+    opcion = input("Elige una opción PARA EMPEZAR con las operaciones JJ: ")
     return opcion
 
 def main():
